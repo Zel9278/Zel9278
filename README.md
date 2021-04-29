@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm a regular guy programming in Node.js and C++.
+- Main task: None yet.
+- Recently started: Qt(C++)
+
+Thank You!
