@@ -1,7 +1,7 @@
 ### Good Bye!
 
 Hi, I'm a regular guy programming in Node.js and C++.
-- Main task: [kusa](https://github.com/Zel9278/kusa)
+- Main task: [kusa](https://github.com/Zel9278/kusa) [New File Server](https://github.com/Zel9278/new-file-server)
 - The language I'm working on: Node.js/Typescript, Shellscript, Python, Rust, C++ and C#.
 
 Thank You!
