@@ -1,6 +1,6 @@
-### Good Bye!
+# c30 / せど (Zel9278)
 
-Hi, I'm a regular guy programming in Node.js and C++.
+Hi, I'm a regular guy programming in Node.js and Rust.
 - Task: [kusa](https://github.com/Zel9278/kusa) | [New File Server](https://github.com/Zel9278/new-file-server) | [c30.life](https://github.com/Zel9278/c30.life)
 - The language I'm working on: Node.js/Typescript, Shellscript, Python, Rust, C++ and C#.
 
