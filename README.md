@@ -1,7 +1,6 @@
 # c30 / せど (Zel9278)
 
 Hi, I'm a regular guy programming in Node.js and Rust.
-- Task: [PC Status Monorepo](https://github.com/Zel9278/pc-status-monorepo-rs)
 - The language I'm working on: Node.js/Typescript, Shellscript, Python, Rust, C++ and C#.
 - Lately, I've been doing some vibe coding 💀
 
