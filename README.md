@@ -1,6 +1,7 @@
 # c30 / せど (Zel9278)
 
-Maybe I just hate programming.
+Maybe I just hate programming. \
+ced is now unavaiable
 
 <!--
 Hi, I'm a regular guy programming in Node.js and Rust.
